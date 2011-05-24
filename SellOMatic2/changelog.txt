@@ -1,0 +1,5 @@
+a041:
+
+- Added preview list carriage return toggle (only formats the output).
+- Updated locales.
+- Minor bug fixes.
