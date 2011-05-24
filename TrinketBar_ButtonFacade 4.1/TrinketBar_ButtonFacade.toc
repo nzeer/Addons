@@ -1,0 +1,9 @@
+## Interface: 40100
+## Title: TrinketBar: ButtonFacade
+## Notes: Skin TrinketBar Buttons with ButtonFacade
+## Version: 1.5.5a
+## Author: Xconn
+## OptionalDeps: Ace3, LibButtonFacade, ButtonFacade
+## SavedVariables: TBBFDB
+embeds.xml
+TrinketBar_ButtonFacade.lua
